@@ -117,12 +117,6 @@ Top mots TF-IDF
 
 Sujets par LDA/LSI
 
-📌 À venir
-Amélioration du modèle avec XGBoost, BERT
-
-Export en API REST (Flask/FastAPI)
-
-Dashboard interactif (Streamlit)
 
 📚 Ressources utiles
 Scikit-learn TF-IDF
